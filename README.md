@@ -1,18 +1,34 @@
-Welcome to my Github Profile!
+# Welcome to my GitHub Profile
 
-Introduction
-Hi, I'm Utsav Tiwari, a aspiring web developer from Kolkata. I'm passionate about Web Devlopment and  and enjoy working on projects related to Web.
+(/images/profile-picture.png)
 
-This repository contains a list of some of the projects I have worked on. Feel free to explore them and provide feedback.
+## About Me
+
+Hi, I'm Utsav Tiwari, a student with a passion for web development . I'm currently working on React Js and a aspirant SDE .
+
+## Skills and Expertise
+
+- Proficient in C , C++ , Java ,Python
+- Experience with Html , Css, Javascript and React Js.
 
 
-Skills
-Here are some of my skills:
+## Connect with Me
 
-Programming languages: C, C++, Java , Python
-Frameworks and libraries: React Js
-Web Tools: Html, css, javasript , React Js
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [Twitter](https://twitter.com/yourhandle/)
+- [Personal Website](aboututsav.netlify.app/)
 
-Contact
-Feel free to reach out to me via utsavtiwari030@gmail.com  . I'm open to collaboration on new projects related to Problem Solving and Web Development.
+## Projects
 
+
+#### Installation
+
+[Installation Instructions]
+
+#### Usage
+
+[Usage Instructions]
+
+## Feedback
+
+I'm always looking for feedback and collaboration opportunities. If you have any questions or suggestions, feel free to [contact me](utsavtiwari030@gmail.com).
