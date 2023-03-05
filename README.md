@@ -1,16 +1,18 @@
-### Hi there 👋
+Welcome to my Github Profile!
 
-<!--
-**utsav306/utsav306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introduction
+Hi, I'm Utsav Tiwari, a aspiring web developer from Kolkata. I'm passionate about Web Devlopment and  and enjoy working on projects related to Web.
 
-Here are some ideas to get you started:
+This repository contains a list of some of the projects I have worked on. Feel free to explore them and provide feedback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+Here are some of my skills:
+
+Programming languages: C, C++, Java , Python
+Frameworks and libraries: React Js
+Web Tools: Html, css, javasript , React Js
+
+Contact
+Feel free to reach out to me via utsavtiwari030@gmail.com  . I'm open to collaboration on new projects related to Problem Solving and Web Development.
+
