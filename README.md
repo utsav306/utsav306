@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-(/images/profile-picture.png)
+![Profile Picture](/images/profile-picture.png)
 
 ## About Me
 
@@ -14,8 +14,8 @@ Hi, I'm Utsav Tiwari, a student with a passion for web development . I'm current
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourhandle/)
+- [LinkedIn](www.linkedin.com/in/utsav-tiwari30)
+
 - [Personal Website](aboututsav.netlify.app/)
 
 ## Projects
