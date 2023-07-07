@@ -19,7 +19,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "utsavtiwari030@gmail.com" or 
+  Mail me at "utsavtiwari030@gmail.com"
 
 
 
@@ -29,10 +29,10 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=utsav306&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=utsav306&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav306&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=utsav306&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📕 Latest Blog Posts
 
@@ -42,7 +42,7 @@
  [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/codewhiteweb)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -52,5 +52,5 @@
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=utsav306&label=Visitors+Count&color=brightgreen)
 </div>
